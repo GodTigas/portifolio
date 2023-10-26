@@ -1,2 +1,2 @@
 # portifolio
-meu portifolui
+Meu Portifolio
